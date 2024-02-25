@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31349460129",
+    "project_id": "gateentry-8b6e3",
+    "storage_bucket": "gateentry-8b6e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31349460129:android:4ca82a7d02b1784cf7f4e0",
+        "android_client_info": {
+          "package_name": "com.example.firebasetodoapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn7HYqZSCJacrhzHErmu6VPt2r0pa0hNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
